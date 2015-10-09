@@ -1,7 +1,7 @@
 {
   "name": "window-load",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Call a callback on window load",
   "license": "MIT",
   "repository": "bendrucker/window-load",
