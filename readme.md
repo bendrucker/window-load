@@ -1,4 +1,4 @@
-# window-load [![Build Status](https://travis-ci.org/bendrucker/window-load.svg?branch=master)](https://travis-ci.org/bendrucker/window-load)
+# window-load [![Build Status](https://travis-ci.org/bendrucker/window-load.svg?branch=master)](https://travis-ci.org/bendrucker/window-load) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/window-load.svg)](https://greenkeeper.io/)
 
 > Call a callback on window load
 
