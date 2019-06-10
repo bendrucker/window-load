@@ -28,7 +28,7 @@
     "index.js"
   ],
   "dependencies": {
-    "global": "~4.3.0",
+    "global": "~4.4.0",
     "next-tick": "~1.0.0"
   }
 }
